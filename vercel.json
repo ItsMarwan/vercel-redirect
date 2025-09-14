@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/",
-      "destination": "https://marwan.is-a.dev",
+      "source": "/:path*",
+      "destination": "https://marwan.is-a.dev/:path*",
       "permanent": true
     }
   ]
